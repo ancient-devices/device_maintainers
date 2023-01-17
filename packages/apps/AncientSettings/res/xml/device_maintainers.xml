@@ -21,6 +21,21 @@
     android:title="@string/device_maintainers_title" >
 
     <PreferenceCategory
+        android:id="@+id/device_category_gsi"
+        android:title="@string/device_category_gsi_title" >
+
+            <Preference
+            android:id="@+id/device_gsi"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_gsi_summary"
+            android:title="@string/device_gsi" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/naz664" />
+          </Preference>
+    </PreferenceCategory>
+
+    <PreferenceCategory
         android:id="@+id/device_category_google"
         android:title="@string/device_category_google_title" >
 
