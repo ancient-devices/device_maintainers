@@ -30,5 +30,10 @@
 
     <string name="device_lisa" translatable="false">Xiaomi 11 Lite Ne 5G</string>
     <string name="device_lisa_summary" translatable="false">Lisa\nLazyDevAk(Ankit kene)</string>
+    
+    <string name="device_cheetah" translatable="false">Pixel 7 Pro</string>
+    <string name="device_cheetah_summary" translatable="false">cheetah\nHurtCopain(HurtCopain)</string>
 
+    <string name="device_panther" translatable="false">Pixel 7</string>
+    <string name="device_panther_summary" translatable="false">panther\nHurtCopain(HurtCopain)</string>
 </resources>

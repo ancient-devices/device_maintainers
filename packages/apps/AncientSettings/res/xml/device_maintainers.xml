@@ -44,6 +44,30 @@
               android:data="https://t.me/lazydev_ak" />
         </Preference>
 
+    <PreferenceCategory
+        android:id="@+id/device_category_google"
+        android:title="@string/device_category_google_title" >
+
+          <Preference
+            android:id="@+id/device_cheetah"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_cheetah_summary"
+            android:title="@string/device_cheetah" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/hurtsdonuts" />
+          </Preference>
+          
+          <Preference
+            android:id="@+id/device_panther"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_panther_summary"
+            android:title="@string/device_panther" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/hurtsdonuts" />
+          </Preference>
+          
     </PreferenceCategory>
 
 </PreferenceScreen>
