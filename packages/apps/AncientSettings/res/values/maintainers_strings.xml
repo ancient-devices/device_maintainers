@@ -20,15 +20,21 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Product -->
-    
+    <string name="device_category_google_title" translatable="false">google</string>    
     <string name="device_category_xiaomi_title" translatable="false">xiaomi</string>
 
     <!-- Device -->
+
+    <string name="device_panther" translatable="false">Pixel 7</string>
+    <string name="device_panther_summary" translatable="false">panther\nHurtCopain(HurtCopain)</string>
+
+    <string name="device_cheetah" translatable="false">Pixel 7 Pro</string>
+    <string name="device_cheetah_summary" translatable="false">cheetah\nHurtCopain(HurtCopain)</string>
 
     <string name="device_violet" translatable="false">Xiaomi Redmi Note 7 Pro </string>
     <string name="device_violet_summary" translatable="false">violet\nReza Adi Pangestu (rezaadi0105)</string>
 
     <string name="device_lisa" translatable="false">Xiaomi 11 Lite Ne 5G</string>
     <string name="device_lisa_summary" translatable="false">Lisa\nLazyDevAk(Ankit kene)</string>
-
+    
 </resources>
