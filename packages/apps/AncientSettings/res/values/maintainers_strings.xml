@@ -41,5 +41,8 @@
 
     <string name="device_lisa" translatable="false">Xiaomi 11 Lite Ne 5G</string>
     <string name="device_lisa_summary" translatable="false">Lisa\nLazyDevAk(Ankit kene)</string>
+
+    <string name="device_RMX3360" translatable="false">realme GT Master</string>
+    <string name="device_RMX3360_summary" translatable="false">RMX3360\nitsXRP (itsXRP)</string>
     
 </resources>
