@@ -42,4 +42,7 @@
     <string name="device_lisa" translatable="false">Xiaomi 11 Lite Ne 5G</string>
     <string name="device_lisa_summary" translatable="false">Lisa\nLazyDevAk(Ankit kene)</string>
     
+    <string name="device_chime" translatable="false">Xiaomi POCO M3 / Redmi 9T</string>
+    <string name="device_chime_summary" translatable="false">Chime\nIndra DP (IndraDP)</string>
+
 </resources>

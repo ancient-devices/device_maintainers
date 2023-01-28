@@ -84,6 +84,16 @@
               android:action="android.intent.action.VIEW"
               android:data="https://t.me/lazydev_ak" />
         </Preference>
+         
+                 <Preference
+            android:id="@+id/device_chime"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_chime_summary"
+            android:title="@string/device_chime">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/IndraDP" />
+        </Preference>
     </PreferenceCategory>
     
 </PreferenceScreen>
