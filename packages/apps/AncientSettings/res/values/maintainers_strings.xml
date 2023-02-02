@@ -41,5 +41,8 @@
 
     <string name="device_lisa" translatable="false">Xiaomi 11 Lite Ne 5G</string>
     <string name="device_lisa_summary" translatable="false">Lisa\nLazyDevAk(Ankit kene)</string>
-    
+
+    <string name="device_davinci" translatable="false">Xiaomi Mi 9T</string>
+    <string name="device_davinci_summary" translatable="false">davinci\nAMWolfstein(Ahmed Fouad)</string>
+
 </resources>
