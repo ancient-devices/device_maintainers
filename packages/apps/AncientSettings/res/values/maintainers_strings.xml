@@ -24,6 +24,7 @@
     <string name="device_category_gsi_title" translatable="false">Generic system image</string>
     <string name="device_category_google_title" translatable="false">google</string>    
     <string name="device_category_xiaomi_title" translatable="false">xiaomi</string>
+    <string name="device_category_realme_title" translatable="false">realme</string>
 
     <!-- Device -->
 
@@ -41,5 +42,8 @@
 
     <string name="device_lisa" translatable="false">Xiaomi 11 Lite Ne 5G</string>
     <string name="device_lisa_summary" translatable="false">Lisa\nLazyDevAk(Ankit kene)</string>
+    
+    <string name="device_bitra" translatable="false">Realme GT Neo 2</string>
+    <string name="device_bitra_summary" translatable="false">bitra\SathamHussainM</string>
     
 </resources>
