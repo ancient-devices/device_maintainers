@@ -37,13 +37,16 @@
     <string name="device_cheetah" translatable="false">Pixel 7 Pro</string>
     <string name="device_cheetah_summary" translatable="false">cheetah\nHurtCopain(HurtCopain)</string>
 
+    <string name="device_RMX1921" translatable="false">realme XT</string>
+    <string name="device_RMX1921_summary" translatable="false">RMX1921\nKader Bava(kaderbava)</string>
+
     <string name="device_violet" translatable="false">Xiaomi Redmi Note 7 Pro </string>
     <string name="device_violet_summary" translatable="false">violet\nReza Adi Pangestu (rezaadi0105)</string>
 
     <string name="device_lisa" translatable="false">Xiaomi 11 Lite Ne 5G</string>
     <string name="device_lisa_summary" translatable="false">Lisa\nLazyDevAk(Ankit kene)</string>
     
-    <string name="device_bitra" translatable="false">Realme GT Neo 2</string>
-    <string name="device_bitra_summary" translatable="false">bitra\SathamHussainM</string>
+    <string name="device_bitra" translatable="false">realme GT Neo 2</string>
+    <string name="device_bitra_summary" translatable="false">bitra\nSathamHussainM(SathamHussainM)</string>
     
 </resources>
