@@ -48,5 +48,8 @@
     
     <string name="device_bitra" translatable="false">realme GT Neo 2</string>
     <string name="device_bitra_summary" translatable="false">bitra\nSathamHussainM(SathamHussainM)</string>
+
+    <string name="device_sweet" translatable="false">Xiaomi Redmi Note 10 Pro </string>
+    <string name="device_sweet_summary" translatable="false">sweet\nBayerischeMotorenWerke(bmwtheseries)</string>
     
 </resources>
