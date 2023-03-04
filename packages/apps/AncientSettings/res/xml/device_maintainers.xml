@@ -109,6 +109,16 @@
               android:action="android.intent.action.VIEW"
               android:data="https://t.me/lazydev_ak" />
         </Preference>
+
+          <Preference
+          android:id="@+id/device_X2"
+          android:icon="@drawable/ancient_device"
+          android:summary="@string/device_X2_summary"
+          android:title="@string/device_X2" >
+          <intent
+              android:action="android.intent.action.VIEW"
+              android:data="https://t.me/ancientofficial_X2" />
+        </Preference>
     </PreferenceCategory>
 
 </PreferenceScreen>
