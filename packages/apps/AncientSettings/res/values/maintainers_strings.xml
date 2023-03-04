@@ -48,5 +48,8 @@
     
     <string name="device_bitra" translatable="false">realme GT Neo 2</string>
     <string name="device_bitra_summary" translatable="false">bitra\nSathamHussainM(SathamHussainM)</string>
-    
+
+    <string name="device_RMX3031" translatable="false">realme X7 Max</string>
+    <string name="device_RMX3031_summary" translatable="false">RMX3031\nNishant Kumar(NishantKumar6342)</string>
+
 </resources>
