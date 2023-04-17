@@ -119,6 +119,16 @@
               android:action="android.intent.action.VIEW"
               android:data="https://t.me/ancientofficial_X2" />
         </Preference>
+    
+        <Preference
+          android:id="@+id/device_phone1"
+          android:icon="@drawable/ancient_device"
+          android:summary="@string/device_phone1_summary"
+          android:title="@string/device_phone1" >
+          <intent
+              android:action="android.intent.action.VIEW"
+              android:data="https://t.me/dhruvesh_23" />
+        </Preference>
     </PreferenceCategory>
 
 </PreferenceScreen>
