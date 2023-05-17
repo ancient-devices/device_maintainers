@@ -61,6 +61,21 @@
           
     </PreferenceCategory>
 
+        <PreferenceCategory
+        android:id="@+id/device_category_motorola"
+        android:title="@string/device_category_motorola_title" >
+
+          <Preference
+            android:id="@+id/device_chef"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_chef_summary"
+            android:title="@string/device_violet" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/saucefinder" />
+          </Preference>
+    </PreferenceCategory>
+
     <PreferenceCategory
         android:id="@+id/device_category_realme"
         android:title="@string/device_category_realme_title" >
