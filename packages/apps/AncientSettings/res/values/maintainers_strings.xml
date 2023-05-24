@@ -25,6 +25,7 @@
     <string name="device_category_google_title" translatable="false">google</string>    
     <string name="device_category_xiaomi_title" translatable="false">xiaomi</string>
     <string name="device_category_realme_title" translatable="false">realme</string>
+    <string name="device_category_oneplus_title" translatable="false">oneplus</string>
 
     <!-- Device -->
 
@@ -51,5 +52,8 @@
     
     <string name="device_X2" translatable="false">Realme X2</string>
     <string name="device_X2_summary" translatable="false">X2\nCHAITANYA</string>
+    
+    <string name="device_avicii" translatable="false">OnePlus Nord</string>
+    <string name="device_avicii_summary" translatable="false">avicii\nSreeshankar K (Sanju0910)</string>
 
 </resources>
