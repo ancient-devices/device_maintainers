@@ -24,6 +24,7 @@
     <string name="device_category_gsi_title" translatable="false">Generic system image</string>
     <string name="device_category_google_title" translatable="false">google</string>    
     <string name="device_category_xiaomi_title" translatable="false">xiaomi</string>
+    <string name="device_category_realme_title" translatable="false">realme</string>
 
     <!-- Device -->
 
@@ -36,6 +37,9 @@
     <string name="device_cheetah" translatable="false">Pixel 7 Pro</string>
     <string name="device_cheetah_summary" translatable="false">cheetah\nHurtCopain(HurtCopain)</string>
 
+    <string name="device_RMX1921" translatable="false">realme XT</string>
+    <string name="device_RMX1921_summary" translatable="false">RMX1921\nKader Bava(kaderbava)</string>
+
     <string name="device_violet" translatable="false">Xiaomi Redmi Note 7 Pro </string>
     <string name="device_violet_summary" translatable="false">violet\nReza Adi Pangestu (rezaadi0105)</string>
 
@@ -44,5 +48,11 @@
     
     <string name="device_chime" translatable="false">Xiaomi POCO M3 / Redmi 9T</string>
     <string name="device_chime_summary" translatable="false">Chime\nIndra DP (IndraDP)</string>
+
+    <string name="device_bitra" translatable="false">realme GT Neo 2</string>
+    <string name="device_bitra_summary" translatable="false">bitra\nSathamHussainM(SathamHussainM)</string>
+    
+    <string name="device_X2" translatable="false">Realme X2</string>
+    <string name="device_X2_summary" translatable="false">X2\nCHAITANYA</string>
 
 </resources>
