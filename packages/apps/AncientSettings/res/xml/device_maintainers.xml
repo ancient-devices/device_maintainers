@@ -110,6 +110,16 @@
               android:data="https://t.me/lazydev_ak" />
         </Preference>
 
+         <Preference
+          android:id="@+id/device_grus"
+          android:icon="@drawable/ancient_device"
+          android:summary="@string/device_grus_summary"
+          android:title="@string/device_grus" >
+          <intent
+              android:action="android.intent.action.VIEW"
+              android:data="https://t.me/Tkiliay" />
+        </Preference>
+
           <Preference
           android:id="@+id/device_X2"
           android:icon="@drawable/ancient_device"
