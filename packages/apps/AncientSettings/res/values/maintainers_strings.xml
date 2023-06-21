@@ -45,6 +45,9 @@
 
     <string name="device_lisa" translatable="false">Xiaomi 11 Lite Ne 5G</string>
     <string name="device_lisa_summary" translatable="false">Lisa\nLazyDevAk(Ankit kene)</string>
+
+    <string name="device_grus" translatable="false">Xiaomi 9 SE</string>
+    <string name="device_grus_summary" translatable="false">grus\nToyohama(Tkiliay)</string>
     
     <string name="device_bitra" translatable="false">realme GT Neo 2</string>
     <string name="device_bitra_summary" translatable="false">bitra\nSathamHussainM(SathamHussainM)</string>
