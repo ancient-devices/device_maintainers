@@ -127,6 +127,15 @@
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/IndraDP" />
         </Preference>
+        <Preference
+            android:id="@+id/device_laurel_sprout"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_laurel_sprout_summary"
+            android:title="@string/device_laurel_sprout">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/syberia_laurel_sprout" />
+        </Preference>
 
     </PreferenceCategory>
 
