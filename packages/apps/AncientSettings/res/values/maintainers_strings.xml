@@ -55,4 +55,7 @@
     <string name="device_X2" translatable="false">Realme X2</string>
     <string name="device_X2_summary" translatable="false">X2\nCHAITANYA</string>
 
+    <string name="device_spes" translatable="false">Redmi Note 11</string>
+    <string name="device_spes_summary" translatable="false">spes\Agatha</string>
+
 </resources>
