@@ -119,7 +119,6 @@
               android:action="android.intent.action.VIEW"
               android:data="https://t.me/lazydev_ak" />
         </Preference>
-
           <Preference
           android:id="@+id/device_X2"
           android:icon="@drawable/ancient_device"
@@ -129,6 +128,25 @@
               android:action="android.intent.action.VIEW"
               android:data="https://t.me/ancientofficial_X2" />
         </Preference>
+        <Preference
+            android:id="@+id/device_chime"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_chime_summary"
+            android:title="@string/device_chime">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/IndraDP" />
+        </Preference>
+        <Preference
+            android:id="@+id/device_haydn"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_haydn_summary"
+            android:title="@string/device_haydn">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/DigiGoon" />
+        </Preference>
+
     </PreferenceCategory>
 
 </PreferenceScreen>
