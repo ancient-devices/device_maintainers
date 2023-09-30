@@ -60,6 +60,22 @@
           </Preference>
           
     </PreferenceCategory>
+    
+    <PreferenceCategory
+        android:id="@+id/device_category_oneplus"
+        android:title="@string/device_category_oneplus_title" >
+
+          <Preference
+            android:id="@+id/device_avicii"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_avicii_summary"
+            android:title="@string/device_avicii" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/sksanju0910" />
+          </Preference>
+          
+    </PreferenceCategory>
 
     <PreferenceCategory
         android:id="@+id/device_category_realme"
