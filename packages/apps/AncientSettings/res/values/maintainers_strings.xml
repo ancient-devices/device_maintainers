@@ -49,6 +49,9 @@
     <string name="device_chime" translatable="false">Xiaomi POCO M3 / Redmi 9T</string>
     <string name="device_chime_summary" translatable="false">Chime\nIndra DP (IndraDP)</string>
 
+    <string name="device_haydn" translatable="false">Xiaomi Mi 11X Pro</string>
+    <string name="device_haydn_summary" translatable="false">haydn\nDigiGoon</string>
+
     <string name="device_bitra" translatable="false">realme GT Neo 2</string>
     <string name="device_bitra_summary" translatable="false">bitra\nSathamHussainM(SathamHussainM)</string>
     
