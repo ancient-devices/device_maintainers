@@ -136,7 +136,39 @@
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/DigiGoon" />
         </Preference>
+    </PreferenceCategory>
 
+    <PreferenceCategory
+        android:id="@+id/device_category_motorola"
+        android:title="@string/device_category_motorola_title" >
+
+        <Preference
+            android:id="@+id/device_devon"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_devon_summary"
+            android:title="@string/device_devon">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/sdm680_moto" />
+        </Preference>
+        <Preference
+            android:id="@+id/device_hawao"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_hawao_summary"
+            android:title="@string/device_hawao">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/sdm680_moto" />
+        </Preference>
+        <Preference
+            android:id="@+id/device_rhode"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_rhode_summary"
+            android:title="@string/device_rhode">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/sdm680_moto" />
+        </Preference>
     </PreferenceCategory>
 
 </PreferenceScreen>
