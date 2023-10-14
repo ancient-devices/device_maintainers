@@ -43,6 +43,9 @@
     <string name="device_violet" translatable="false">Xiaomi Redmi Note 7 Pro </string>
     <string name="device_violet_summary" translatable="false">violet\nReza Adi Pangestu (rezaadi0105)</string>
 
+    <string name="device_veux" translatable="false">Xiaomi Redmi Note 11 Pro 5G / Poco X4 Pro 5G</string>
+    <string name="device_veux_summary" translatable="false">veux\nSemina Alexandru (semialex16)</string>
+
     <string name="device_lisa" translatable="false">Xiaomi 11 Lite Ne 5G</string>
     <string name="device_lisa_summary" translatable="false">Lisa\nLazyDevAk(Ankit kene)</string>
     

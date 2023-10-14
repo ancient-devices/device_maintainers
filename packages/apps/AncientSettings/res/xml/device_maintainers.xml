@@ -99,6 +99,16 @@
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/reza_adi_pangestu" />
           </Preference>
+          
+          <Preference
+            android:id="@+id/device_veux"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_veux_summary"
+            android:title="@string/device_veux">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/semialex16" />
+        </Preference>
 
           <Preference
           android:id="@+id/device_lisa"
