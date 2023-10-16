@@ -61,6 +61,9 @@
     
     <string name="device_X2" translatable="false">Realme X2</string>
     <string name="device_X2_summary" translatable="false">X2\nCHAITANYA</string>
+    
+    <string name="device_nashc" translatable="false">Realme 8</string>
+    <string name="device_nashc_summary" translatable="false">8\Eren_Yeager</string>
 
     <string name="device_avicii" translatable="false">OnePlus Nord</string>
     <string name="device_avicii_summary" translatable="false">avicii\nSreeshankar K</string>
