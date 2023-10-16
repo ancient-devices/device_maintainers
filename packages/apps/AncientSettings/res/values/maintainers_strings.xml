@@ -22,7 +22,8 @@
     <!-- Product -->
     
     <string name="device_category_gsi_title" translatable="false">Generic system image</string>
-    <string name="device_category_google_title" translatable="false">google</string>    
+    <string name="device_category_google_title" translatable="false">google</string>
+    <string name="device_category_motorola_title" translatable="false">motorola</string>
     <string name="device_category_xiaomi_title" translatable="false">xiaomi</string>
     <string name="device_category_realme_title" translatable="false">realme</string>
     <string name="device_category_oneplus_title" translatable="false">oneplus</string>
@@ -37,6 +38,9 @@
 
     <string name="device_cheetah" translatable="false">Pixel 7 Pro</string>
     <string name="device_cheetah_summary" translatable="false">cheetah\nHurtCopain(HurtCopain)</string>
+
+    <string name="device_chef" translatable="false">Motorola One Power</string>
+    <string name="device_chef_summary" translatable="false">chef\nRushi Ranpise(rushi24)</string>
 
     <string name="device_RMX1921" translatable="false">realme XT</string>
     <string name="device_RMX1921_summary" translatable="false">RMX1921\nKader Bava(kaderbava)</string>
