@@ -162,6 +162,15 @@
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/DigiGoon" />
         </Preference>
+        <Preference
+            android:id="@+id/device_nashc"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_nashc_summary"
+            android:title="@string/device_nashc">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/sukuna_me" />
+        </Preference>
 
     </PreferenceCategory>
 
