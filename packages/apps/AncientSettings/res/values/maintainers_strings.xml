@@ -20,9 +20,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Product -->
-    
+
     <string name="device_category_gsi_title" translatable="false">Generic system image</string>
-    <string name="device_category_google_title" translatable="false">google</string>    
+    <string name="device_category_google_title" translatable="false">google</string>
     <string name="device_category_xiaomi_title" translatable="false">xiaomi</string>
     <string name="device_category_realme_title" translatable="false">realme</string>
     <string name="device_category_oneplus_title" translatable="false">oneplus</string>
@@ -49,7 +49,7 @@
 
     <string name="device_lisa" translatable="false">Xiaomi 11 Lite Ne 5G</string>
     <string name="device_lisa_summary" translatable="false">Lisa\nLazyDevAk(Ankit kene)</string>
-    
+
     <string name="device_chime" translatable="false">Xiaomi POCO M3 / Redmi 9T</string>
     <string name="device_chime_summary" translatable="false">Chime\nIndra DP (IndraDP)</string>
 
@@ -58,7 +58,10 @@
 
     <string name="device_bitra" translatable="false">realme GT Neo 2</string>
     <string name="device_bitra_summary" translatable="false">bitra\nSathamHussainM(SathamHussainM)</string>
-    
+
+    <string name="device_lunaa" translatable="false">realme GT Master Edition</string>
+    <string name="device_lunaa_summary" translatable="false">lunaa\nSID(sid7087)</string>
+
     <string name="device_X2" translatable="false">Realme X2</string>
     <string name="device_X2_summary" translatable="false">X2\nCHAITANYA</string>
 
