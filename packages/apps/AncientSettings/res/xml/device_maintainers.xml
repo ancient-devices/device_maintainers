@@ -48,7 +48,7 @@
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/hurtsdonuts" />
           </Preference>
-          
+
           <Preference
             android:id="@+id/device_panther"
             android:icon="@drawable/ancient_device"
@@ -58,7 +58,23 @@
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/hurtsdonuts" />
           </Preference>
-          
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:id="@+id/device_category_oneplus"
+        android:title="@string/device_category_oneplus_title" >
+
+          <Preference
+            android:id="@+id/device_avicii"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_avicii_summary"
+            android:title="@string/device_avicii" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/sksanju0910" />
+          </Preference>
+
     </PreferenceCategory>
 
     <PreferenceCategory
@@ -75,11 +91,21 @@
                 android:data="https://t.me/SathamHussainM" />
           </Preference>
 
-          <Preference 
-            android:id="@+id/device_RMX1921" 
-            android:icon="@drawable/ancient_device" 
-            android:summary="@string/device_RMX1921_summary" 
-            android:title="@string/device_RMX1921" > 
+          <Preference
+            android:id="@+id/device_lunaa"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_lunaa_summary"
+            android:title="@string/device_lunaa" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/sid7087" />
+          </Preference>
+
+          <Preference
+            android:id="@+id/device_RMX1921"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_RMX1921_summary"
+            android:title="@string/device_RMX1921" >
             <intent
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/Bava7325" />
@@ -99,6 +125,16 @@
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/reza_adi_pangestu" />
           </Preference>
+
+          <Preference
+            android:id="@+id/device_veux"
+            android:icon="@drawable/ancient_device"
+            android:summary="@string/device_veux_summary"
+            android:title="@string/device_veux">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/semialex16" />
+        </Preference>
 
           <Preference
           android:id="@+id/device_lisa"
