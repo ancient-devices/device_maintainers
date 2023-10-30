@@ -65,7 +65,18 @@
     <string name="device_X2" translatable="false">Realme X2</string>
     <string name="device_X2_summary" translatable="false">X2\nCHAITANYA</string>
 
+
+    <string name="device_fog" translatable="false">Xiaomi Redmi 10C</string>
+    <string name="device_fog_summary" translatable="false">fog\Notkerd69</string>
+
+    <string name="device_rain" translatable="false">Xiaomi Redmi 10C</string>
+    <string name="device_rain_summary" translatable="false">rain\Notkerd69</string>
+
+    <string name="device_wind" translatable="false">Xiaomi Redmi 10C</string>
+    <string name="device_wind_summary" translatable="false">wind\Notkerd69</string>
+
     <string name="device_avicii" translatable="false">OnePlus Nord</string>
     <string name="device_avicii_summary" translatable="false">avicii\nSreeshankar K</string>
+
 
 </resources>
