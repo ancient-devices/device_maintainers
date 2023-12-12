@@ -62,6 +62,15 @@
     <string name="device_lunaa" translatable="false">realme GT Master Edition</string>
     <string name="device_lunaa_summary" translatable="false">lunaa\nSID(sid7087)</string>
 
+    <string name="device_dreamlte" translatable="false">Samsung Galaxy S8</string>
+    <string name="device_dreamlte_summary" translatable="false">dreamlte\MiDoNaSR</string>
+
+    <string name="device_dream2lte" translatable="false">Samsung Galaxy S8+</string>
+    <string name="device_dream2lte_summary" translatable="false">dream2lte\MiDoNaSR</string>
+
+    <string name="device_greatlte" translatable="false">Samsung Galaxy Note 8</string>
+    <string name="device_greatlte_summary" translatable="false">greatlte\MiDoNaSR</string>
+
     <string name="device_X2" translatable="false">Realme X2</string>
     <string name="device_X2_summary" translatable="false">X2\nCHAITANYA</string>
 
